@@ -1,0 +1,319 @@
+[
+  {
+    "genres": [
+      "Comedy",
+      "Western",
+      "Romance"
+    ],
+    "title": "Wild and Woolly",
+    "year": 1917
+  },
+  {
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "title": "Destry Rides Again",
+    "year": 1939
+  },
+  {
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "title": "Bowery Buckaroos",
+    "year": 1947
+  },
+  {
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "title": "The Paleface",
+    "year": 1948
+  },
+  {
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Western"
+    ],
+    "title": "Calamity Jane",
+    "year": 1953
+  },
+  {
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Western"
+    ],
+    "title": "The Sun Shines Bright",
+    "year": 1953
+  },
+  {
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Western"
+    ],
+    "title": "The Sheriff of Fractured Jaw",
+    "year": 1958
+  },
+  {
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "title": "North to Alaska",
+    "year": 1960
+  },
+  {
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "title": "Sergeants 3",
+    "year": 1962
+  },
+  {
+    "genres": [
+      "Western",
+      "Comedy"
+    ],
+    "title": "4 for Texas",
+    "year": 1963
+  },
+  {
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Western"
+    ],
+    "title": "McLintock!",
+    "year": 1963
+  },
+  {
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "title": "Cat Ballou",
+    "year": 1965
+  },
+  {
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "title": "The Hallelujah Trail",
+    "year": 1965
+  },
+  {
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "title": "The Scalphunters",
+    "year": 1968
+  },
+  {
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "title": "The Cheyenne Social Club",
+    "year": 1970
+  },
+  {
+    "year": 1970,
+    "genres": [
+      "Comedy",
+      "History",
+      "Western"
+    ],
+    "title": "Little Big Man"
+  },
+  {
+    "genres": [
+      "Western",
+      "Comedy"
+    ],
+    "title": "My Name Is Nobody",
+    "year": 1973
+  },
+  {
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Western"
+    ],
+    "title": "Oklahoma Crude",
+    "year": 1973
+  },
+  {
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "title": "Blazing Saddles",
+    "year": 1974
+  },
+  {
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "title": "A Genius, Two Friends, and an Idiot",
+    "year": 1975
+  },
+  {
+    "genres": [
+      "Western",
+      "Comedy"
+    ],
+    "title": "Hearts of the West",
+    "year": 1975
+  },
+  {
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "title": "Buffalo Bill and the Indians, or Sitting Bull's History Lesson",
+    "year": 1976
+  },
+  {
+    "genres": [
+      "Comedy",
+      "Western",
+      "Drama"
+    ],
+    "title": "The Electric Horseman",
+    "year": 1979
+  },
+  {
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "title": "Buddy Goes West",
+    "year": 1981
+  },
+  {
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "title": "Rustlers' Rhapsody",
+    "year": 1985
+  },
+  {
+    "genres": [
+      "Action",
+      "Comedy",
+      "Western"
+    ],
+    "title": "Shanghai Express",
+    "year": 1986
+  },
+  {
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "title": "Tampopo",
+    "year": 1985
+  },
+  {
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "title": "Lucky Luke",
+    "year": 1991
+  },
+  {
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "title": "Four Eyes and Six-Guns",
+    "year": 1992
+  },
+  {
+    "year": 1999,
+    "genres": [
+      "Action",
+      "Western",
+      "Comedy"
+    ],
+    "title": "Wild Wild West"
+  },
+  {
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "title": "Blazing Saddles",
+    "year": 1974
+  },
+  {
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "title": "Manitou's Shoe",
+    "year": 2001
+  },
+  {
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "title": "Lucky Luke and the Daltons",
+    "year": 2004
+  },
+  {
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Western"
+    ],
+    "title": "Bad Day to Go Fishing",
+    "year": 2009
+  },
+  {
+    "year": 2012,
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "title": "Casa de mi Padre"
+  },
+  {
+    "genres": [
+      "Comedy",
+      "Thriller",
+      "Western"
+    ],
+    "title": "Good for Nothing",
+    "year": 2011
+  },
+  {
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "title": "A Million Ways to Die in the West",
+    "year": 2014
+  },
+  {
+    "genres": [
+      "Short",
+      "Comedy",
+      "Western"
+    ],
+    "title": "The Gunfighter",
+    "year": 2014
+  }
+]
