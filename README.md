@@ -1,8 +1,4 @@
-# NoSQL Assignment 3
-
 # GitHub Repository
-
-Add your repository link here:
 
 ```text
 https://github.com/anyhow210s/NoSQL3
@@ -27,6 +23,9 @@ The `data` folder includes the following files:
 - The output results for the six assignments are stored in the `data` folder as `data1.json` through `data6.json`.
 ---
 
+
+
+# NoSQL Assignment 3
 ## Overview
 
 This project uses the `sample_mflix` MongoDB dataset with Node.js and MongoDB queries.
