@@ -1,5 +1,11 @@
 # NoSQL Assignment 3
 
+## How to Work
+- Running `data.js` from the root directory displays a menu allowing the user to select assignments 1 through 6.  
+- Entering `0` exits the program.  
+- When a number is selected, the corresponding output file (`data1.json` through `data6.json`) is generated inside the `data` folder.
+
+---
 
 ## RESULT
 The `screenshot` folder includes the following screenshots:
