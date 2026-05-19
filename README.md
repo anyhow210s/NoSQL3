@@ -1,5 +1,15 @@
 # NoSQL Assignment 3
 
+# GitHub Repository
+
+Add your repository link here:
+
+```text
+https://github.com/anyhow210s/NoSQL3
+```
+
+---
+
 ## How to Work
 - Running `data.js` from the root directory displays a menu allowing the user to select assignments 1 through 6.  
 - Entering `0` exits the program.  
@@ -147,16 +157,6 @@ NoSQL3/
 │   ├── data4.json
 │   ├── data5.json
 │   └── data6.json
-```
-
----
-
-# GitHub Repository
-
-Add your repository link here:
-
-```text
-https://github.com/anyhow210s/NoSQL3
 ```
 
 ---
