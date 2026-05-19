@@ -1,5 +1,16 @@
 # NoSQL Assignment 3
 
+
+## RESULT
+The `screenshot` folder includes the following screenshots:
+
+- The results of the `node --version` and `npm --version` commands.
+- A screenshot of the restored `sample_mflix` database displayed in MongoDB Compass after running the restore process.
+
+The `data` folder includes the following files:
+- The output results for the six assignments are stored in the `data` folder as `data1.json` through `data6.json`.
+---
+
 ## Overview
 
 This project uses the `sample_mflix` MongoDB dataset with Node.js and MongoDB queries.
